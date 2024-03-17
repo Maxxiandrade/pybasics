@@ -1,0 +1,17 @@
+Los datos son
+
+Nombre: maxi
+Apellido: andrade
+------------
+Nombre: jose
+Apellido: urtiaga
+------------
+Nombre: marlen
+Apellido: camalache
+------------
+Nombre: victor
+Apellido: robledo
+------------
+Nombre: roberto
+Apellido: sanchez
+------------
